@@ -9,10 +9,8 @@
 <h2 align="center"> 👨‍💻 Mariani</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vi-dev0&style=flat-square&color=yellow"></p>
 <p align="center">
-  <samp>The programmer is self-taught. I started with website development and CRM implementation. 
-I have extensive experience in marketing and SEO. At the moment I am studying Python and automating 
-business processes of various organizations in my hometown, creating telegram bots for the development 
-of the <a href="https://t.me/b4dcat404" target="_blank">Telegram channel</a>
+  <samp>Salut! Sunt Mariani un tânăr pasionat de dezvoltarea web, cu focus pe front-end. <br>Ziua mea începe cu bucuria de a construi experiențe online captivante și de a explora noutăți în lumea programării. <br>Mă descriu ca fiind extrem de motivat și dedicat în a învăța lucruri noi. <br> În plus față de programare, am o pasiune intensă pentru sport și esports.
+                <br>Am recent un canal pe YouTube, zZmAnia, unde împărtășesc conținut fascinant despre dezvoltarea front-end. <br> Te invit să te alături acestei călătorii captivante în lumea dezvoltării web, explorând împreună cele mai recente tendințe și tehnologii.</span>
   </samp>
   <br> <br>
 </p>
