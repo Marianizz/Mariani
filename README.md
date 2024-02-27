@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML%20-%2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JS%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">HTML5, CSS3, JavaScript, Boostrap </p>
 
